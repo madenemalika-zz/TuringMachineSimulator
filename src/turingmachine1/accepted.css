@@ -1,0 +1,11 @@
+JFXButton {
+    -fx-background-color: #64ab4e;
+    
+}
+
+.jfx-snackbar{
+    -fx-background-color: #64ab4e;
+}
+.jfx-snackbar-toast{
+    -fx-text-fill: #000000;
+}
