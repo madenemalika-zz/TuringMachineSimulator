@@ -32,4 +32,6 @@ The Input after been treated
 
 
 Interface
-![turingmachine](https://user-images.githubusercontent.com/36379605/51942702-0b5d7500-2418-11e9-9f5e-8120bcc36602.PNG)
+
+
+![turingmachine](https://user-images.githubusercontent.com/36379605/51943027-c71ea480-2418-11e9-95f4-ea59610b240f.PNG)
